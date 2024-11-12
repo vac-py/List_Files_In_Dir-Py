@@ -19,3 +19,8 @@ self.specifyfileExtension = False
 -
 self.FileExtension = '.txt'  
 ----------------------------------------
+
+# Example of possible usage for this
+-
+if you have a virus on your pc you can find it by setting self.FileExtension to = '.exe' (or whatever the viruses file extension was) to find the location of the virus, if u have a general idea of the location of the virus u can set the wanted directory to that general location
+----------------------------------------
